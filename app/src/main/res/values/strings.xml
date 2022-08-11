@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StyleClock</string>
+    <string name="AM">AM</string>
+    <string name="PM">PM</string>
+    <string name="Sunday">Sun</string>
+    <string name="Monday">Mon</string>
+    <string name="Tuesday">Tue</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thu</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="system_theme">Dynamic Auto</string>
+    <string name="auto_theme">Auto</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="dynamic_light_theme">Dynamic light</string>
+    <string name="dynamic_dark_theme">Dynamic dark</string>
+    <string name="light_green_theme">Light green</string>
+    <string name="dark_green_theme">Dark green</string>
+    <string name="light_blue_theme">Light blue</string>
+    <string name="dark_blue_theme">Dark blue</string>
+    <string name="light_purple_theme">light purple</string>
+    <string name="dark_purple_theme">dark purple</string>
+    <string name="light_colorful_theme">light colorful</string>
+    <string name="dark_colorful_theme">dark colorful</string>
+    <string name="light_pink_theme">light pink</string>
+    <string name="dark_pink_theme">dark pink</string>
+    <string name="light_orange_theme">light orange</string>
+    <string name="dark_orange_theme">dark orange</string>
+</resources>
