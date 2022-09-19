@@ -506,11 +506,11 @@ private val DarkOrangeColors = darkColorScheme(
 
 enum class Theme {
   DynamicTheme,
+  DynamicLightTheme,
+  DynamicDarkTheme,
   AutoTheme,
   LightTheme,
   DarkTheme,
-  DynamicLightTheme,
-  DynamicDarkTheme,
   LightGreenTheme,
   DarkGreenTheme,
   LightBlueTheme,
