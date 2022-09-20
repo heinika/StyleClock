@@ -1,21 +1,24 @@
 ![StyleClock](./preview/StyleClock.png)
+
 Make Your Special Clock.
+
 Support Material You Design.
+
 Support multiple color scheme.
+
 Support multiple font family.
+
 Support show battery.
+
 Support show calendar.
 
-Material You Compose 实践：多样式时钟
+# Material You Compose 实践：多样式时钟
 
 [Google Play 下载地址](https://play.google.com/store/apps/details?id=com.heinika.styleclock)
 
 [github 源码地址](https://github.com/heinika/StyleClock)
 
-## Talk is cheap. Show me the code.
-
-首先确定主题样式的逻辑：
-
+## 首先确定主题样式的逻辑.
 ```kotlin
 enum class Theme {
   DynamicTheme,
