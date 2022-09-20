@@ -1,4 +1,5 @@
 ![StyleClock](./preview/StyleClock.png)
+
 Make Your Special Clock.
 Support Material You Design.
 Support multiple color scheme.
