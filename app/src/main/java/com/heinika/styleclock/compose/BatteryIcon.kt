@@ -1,5 +1,6 @@
 package com.heinika.styleclock.compose
 
+import android.content.res.Configuration
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
@@ -35,7 +36,7 @@ fun BatteryIcon(modifier: Modifier = Modifier, size: Int, batteryPercent: Float)
 @Preview
 @Composable
 fun BatteryIconPreview() {
-  BatteryIcon(batteryPercent = 0.75f, size = 48)
+  BatteryIcon(batteryPercent = 0.7f, size = 48)
 }
 
 public val OutlineBattery: ImageVector
